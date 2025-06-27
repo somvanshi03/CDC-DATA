@@ -8,26 +8,19 @@
    - Install Java Development Kit (JDK) version 8 or later.
 
 ## **Install Java**:
-   - Update your package index:
-     
+    
      sudo apt update
-    
-   - Install the default JDK:
-    
+
      sudo apt install default-jdk -y 
 	 sudo apt install openjdk-17-jdk -y
-     
-   - Verify the installation:
-     
+
      java -version
      
 
 ## **Download Kafka**:
    
      wget https://downloads.apache.org/kafka/3.9.1/kafka_2.12-3.9.1.tgz
-   
-   - Extract the downloaded archive:
-     
+       
      tar -xzf kafka_2.12-3.9.1.tgz
      
 
