@@ -1,6 +1,6 @@
 # CDC Pipeline
 
-##Install Kafka on Ubuntu 22
+## Install Kafka on Ubuntu 22
 
 
 ## **Prerequisites**:
